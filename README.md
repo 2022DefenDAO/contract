@@ -9,6 +9,7 @@ DeFenDAO aims to provide a tool for NFT communities to boost engagement and defe
 ## Demo
 
 - [Website](https://hackathon-dcyn.vercel.app/)
+  - Note: The website does not show any data because the contract is not deployed on the Optimism test network. We wanted to demo on the Optimism test network, but the Opensea APIs for getting orders was not working. So we instead deconstructed an already fulfilled order on Optimism mainnet and reproduced fulfilling the order on a fork of the mainnet.
 - [Video](https://www.youtube.com/watch?v=xiJmm0miDmc)
 - [Project slides deck](./resources/DeFendDAO.pdf)
 
