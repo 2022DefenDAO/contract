@@ -4,7 +4,7 @@ _Note: this code is not audited and should not be used in production environment
 
 ## Summary
 
-DeFenDAO aims to provide a tool for NFT communities to boost engagement and defend prices increase by enabling providing partial buy liquidity. It also aims to increase liquidity in the overall NFT market.
+DeFenDAO aims to provide a tool for NFT communities to boost engagement and defend collection prices by providing buy liquidity below floor prices. By doing so, it also aims to increase liquidity in the overall NFT market.
 
 ## Demo
 
